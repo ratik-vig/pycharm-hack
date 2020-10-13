@@ -56,3 +56,51 @@ Setup
      :alt: Repo Size
 
 * Setting up your project and environment
+
+.. code-block:: bash
+
+    # Clone the repository
+    git clone git@github.com:ratik-vig/pycharm-hack.git
+    cd pycharm-hack
+
+    # Install dependencies
+    npm install
+* Working in Development Mode
+
+.. code-block:: bash
+
+    # We use develop branch for development
+    git checkout -b develop remotes/origin/develop
+    git checkout -b "your_feature_branch"
+
+* If your terminal doesn't load ``.env`` file automatically
+
+.. code-block:: bash
+
+    npm start
+    
+Issues
+--------
+
+.. image:: https://img.shields.io/github/issues/ratik-vig/pycharm-hack
+     :target: https://github.com/ratik-vig/pycharm-hack/issues
+     :alt: GitHub issues
+.. image:: https://img.shields.io/github/forks/ratik-vig/pycharm-hack
+     :target: https://github.com/ratik-vig/pycharm-hack/forks
+     :alt: GitHub forks
+.. image:: https://img.shields.io/github/stars/ratik-vig/pycharm-hack
+     :target: https://github.com/ratik-vig/pycharm-hack/stars
+     :alt: GitHub stars
+.. image:: https://img.shields.io/github/license/ratik-vig/pycharm-hack
+     :target: https://github.com/ratik-vig/pycharm-hack/pulls
+     :alt: GitHub license
+
+.. class:: bold
+
+    `Track Issues <https://github.com/ratik-vig/pycharm-hack/issues>`__ on GitHub
+
+.. class:: bold
+
+    Feel free to `open new issue(s) <https://github.com/ratik-vig/pycharm-hack/issues/new/choose>`__ . Make sure you follow the Issue Template provided.
+
+
