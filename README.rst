@@ -16,10 +16,10 @@ Name of the project
 .. image:: https://img.shields.io/github/license/MLH-Fellowship/twitstat.svg?logo=github
      :target: https://github.com/ratik-vig/pycharm-hack/blob/main/LICENSE
      :alt: MIT License
-.. image:: https://img.shields.io/github/stars/MLH-Fellowship/twitstat.svg?logo=github
+.. image:: https://img.shields.io/github/stars/ratik-vig/pycharm-hack.svg?logo=github
      :target: https://github.com/ratik-vig/pycharm-hack/stargazers
      :alt: GitHub Stars
-.. image:: https://img.shields.io/github/forks/MLH-Fellowship/twitstat.svg?logo=github&color=teal
+.. image:: https://img.shields.io/github/forks/ratik-vig/pycharm-hack.svg?logo=github&color=teal
      :target: https://github.com/ratik-vig/pycharm-hack/network/members
      :alt: GitHub Forks
 
